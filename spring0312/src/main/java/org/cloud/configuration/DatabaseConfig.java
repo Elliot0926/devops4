@@ -17,7 +17,7 @@ import com.zaxxer.hikari.HikariDataSource;
 @Configuration
 @MapperScan("org.cloud.mapper")
 public class DatabaseConfig {
-//
+//////
 	@Autowired
 	private ApplicationContext applicationContext;
 	
